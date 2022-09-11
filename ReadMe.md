@@ -60,15 +60,15 @@
      
      
      
-     <p align="center">
+   
   <img  src="/usercontroller.png">
-</p>
 
-          <p align="center">
+
+        
   <img  src="/productcontroller.png">
-</p>
 
-     <p align="center">
+
+
   <img  src="/productCommentcontroller.png">
-</p>
+
 
