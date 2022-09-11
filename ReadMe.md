@@ -60,7 +60,9 @@
      
      
      
-     ![usercontroller](usercontroller.png)
+     <p align="center">
+  <img  src="/usercontroller.png">
+</p>
 
      
      ![productcontroller](https://user-images.githubusercontent.com/64216822/189535532-4d6ac037-4b9f-4f94-a105-5e7afe8d4320.png)
