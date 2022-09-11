@@ -23,7 +23,8 @@
      VERSION = "/v1";
 
 
-    
+     Her bir entitye ait url  
+     
      USER = "/user";
      PRODUCT = "/product";
      COMMENT = "/comment";
