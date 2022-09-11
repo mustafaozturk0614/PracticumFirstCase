@@ -60,7 +60,7 @@
      
      
      
-     ![usercontroller](https://user-images.githubusercontent.com/64216822/189535528-611435b7-c20e-4b5e-9cef-1774f38f6934.png)
+     ![usercontroller](usercontroller.png)
 
      
      ![productcontroller](https://user-images.githubusercontent.com/64216822/189535532-4d6ac037-4b9f-4f94-a105-5e7afe8d4320.png)
